@@ -343,7 +343,7 @@ class thisGame{
 		coins.allCoins = [];
 		objects.allObjects = [];
 		player.rSpeed = 0;
-		bg.coinCount=0;
+		bg.coinCount=90909090900;
 		player.ySpeed = 0;
 	}
 	start(){
